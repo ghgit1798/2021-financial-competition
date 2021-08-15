@@ -44,4 +44,8 @@
 ![image](https://user-images.githubusercontent.com/44918665/129470823-4236d9e1-dcee-44db-9a7e-231d6ee5168e.png)
 ![image](https://user-images.githubusercontent.com/44918665/129470832-ca4cf7f9-cc1f-4c01-a0e9-1f91b4e00a8f.png)
 - 확인해보니 기타는 주로 자사가맹점/해외사용건으로 특수한 경우로 제외하고 집계하는 것도 고려해 볼 필요가 있다.
+## 코로나 전후 카드매출금액
+![image](https://user-images.githubusercontent.com/44918665/129473027-18e4df63-9d8b-4cdf-8fc7-15c7a05518ac.png)
+- 음식관련산업과 문화레저는 코로나 전후로 3월, 9월 모두 감소했다.
+- 반면 그 외 산업들은 코로나 후 산업 9월에는 전부 매출증가했다. 
 
