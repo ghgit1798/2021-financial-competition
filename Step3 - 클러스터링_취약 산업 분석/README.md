@@ -82,5 +82,56 @@
 - RobustScaler
 ![image](https://user-images.githubusercontent.com/44918665/129482513-4315723e-fb13-48b3-92ec-1af69fbb4361.png)
 
-- 클러스터링 레이블링 및 결과 붙이기
-- 생활서비스에 대해서도 
+### 클러스터링 결과 레이블링
+![image](https://user-images.githubusercontent.com/44918665/129736401-2d994699-bf49-4f8f-9901-57a0c9d16549.png)
+- 클러스터 0은 매출가맹점수, 건수가 높고 건당, 점당매출금액은 낮은 산업이다.
+- 클러스터 1은 그 반대로 건당, 점당매출금액이 높고 매출가맹점수와 건수가 낮은 산업이다.
+- 따라서 클러스터 0은 자주 이용하는 소매유통산업, 클러스터 1은 고가유통산업으로 분류하였다. 
+
+1. 마트/슈퍼마켓
+![image](https://user-images.githubusercontent.com/44918665/129737379-b0300ea6-881b-4263-8bb5-da2158945d32.png)
+- 마트/슈퍼마켓은 소매유통산업과 매우 유사한 클러스터를 띄고 있다.
+- 매출가맹점수와 카드매출건수가 높고, 점당(건당)매출금액은 낮다.
+
+2. 편의점
+![image](https://user-images.githubusercontent.com/44918665/129737741-61ea5fb7-5555-4b1a-8d9e-9eaef773bf1f.png)
+- 마트/슈퍼마켓과 유사하지만 다른 특징은 카드매출금액이 낮다.
+
+3. 면세점
+![image](https://user-images.githubusercontent.com/44918665/129737515-a68b41c7-cac1-4db0-bbe0-a6a87312da52.png)
+- 면세점은 고가유통산업 클러스터로 분류되었다.
+- 건당매출금액이 매우 높은 것이 특징이다.
+
+4. 다단계판매
+![image](https://user-images.githubusercontent.com/44918665/129737602-011b36ef-5aaa-4975-b892-65606f2d86a0.png)
+- 다단계판매 역시 건당매출금액이 매우 높은 고가유통산업으로 분류되었다.
+
+5. 백화점
+![image](https://user-images.githubusercontent.com/44918665/129738343-c3f8fc58-ec23-40cb-a796-297b5400f377.png)
+- 백화점은 점당매출금액이 높은 고가유통산업으로 분류되었다.
+
+6. 수입품
+![image](https://user-images.githubusercontent.com/44918665/129738450-4e5f6aec-456c-49ac-a4d5-8c342a20f536.png)
+- 수입품은 고가유통산업 중에서도 5가지 지표가 모두 작은 유형에 속했다.
+- 모든 지표가 낮더라도 건당매출금액은 소매유통산업보다 높은 특징이 있었다.
+
+7. 아울렛
+![image](https://user-images.githubusercontent.com/44918665/129738612-f266083a-07c1-4c00-a2f0-81acb0e7d01c.png)
+- 아울렛은 고가유통산업으로 분류되었다.
+- 백화점과 유사한 점당매출금액이 높은 유형이다.
+
+8. 온라인
+![image](https://user-images.githubusercontent.com/44918665/129738782-81477cb3-4e50-4b6d-8bad-d74d8a436cda.png)
+- 온라인 유통산업은 카드매출금액이 압도적으로 높은 고가유통산업으로 분류되었다.
+- 5가지 지표가 고가유통산업 중에서도 모두 높은 편이었고, 특히 카드매출금액이 매우 높았다.
+- 하지만 소매유통산업으로 분류되지 않은 건 매출가맹점수가 적기 때문인 것으로 보인다.
+- 완전한 고가유통산업으로 분류하기엔 다소 애매하므로 따로 분석할 필요가 있다.
+
+9. 전용매장
+![image](https://user-images.githubusercontent.com/44918665/129739080-5e50a898-2b5e-4809-87d9-5adf530edab8.png)
+- 전용매장 역시 고가유통산업으로 분류되었으나, 5가지 지표의 값이 매우 낮다.
+- 수입품은 건당매출금액이라도 높았으나, 전용매장은 그렇지도 않았다.
+
+
+
+
