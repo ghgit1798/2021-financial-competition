@@ -23,7 +23,7 @@ https://www.findatacontest2021.com/
 
 ### Elbow chart
 ![image](https://user-images.githubusercontent.com/44918665/129468971-247d5ba9-fb60-4115-ad4d-46d8c8f35680.png)
-- elobw chart를 기반으로 해석하면 업종대분류는 2개의 클러스터가 적당하다.
+- elbow chart를 기반으로 해석하면 업종대분류는 2개의 클러스터가 적당하다.
 
 ### Clustering 결과
 ![image](https://user-images.githubusercontent.com/44918665/129470384-fe7992b7-4bb2-4dfe-857e-a59ba50f2fdf.png)
